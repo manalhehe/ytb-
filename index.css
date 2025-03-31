@@ -1,0 +1,108 @@
+body{
+    background-color: black;
+}
+
+.rec{
+    height: 3px;
+    width: 15px;
+    background-color:white;
+}
+
+.menu{
+    display: flex;
+    flex-direction: column;
+    gap : 3px;
+}
+
+.cer{
+    height: 25px;
+    width: 25px;
+    background-color: gray;
+    border-radius: 50%;
+}
+
+.outil{
+    display: flex;
+    gap : 10px;
+}
+
+.bare{
+    display: flex;
+    justify-content: space-between;
+}
+
+.photo{
+    height: 200px;
+    width: 300px;
+    background-color: gray;
+}
+
+.titre{
+    height: 15px;
+    width: 220px;
+    background-color: gray;
+}
+
+.soustitre{
+    height: 15px;
+    width: 170px;
+    background-color: gray;
+}
+
+.titretotal{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.icone{
+    height: 35px;
+    width: 35px;
+    background-color: gray;
+    border-radius: 50%;
+}
+
+.fin{
+    display: flex;
+    gap: 10px;
+}
+
+.video{
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+}
+
+.ligne{
+    margin-top: 100px;
+    margin-left: 100px;
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
+
+
+
+
+
+
+.maman2{
+    margin-right: 100px;
+    margin-top: 100px;
+    display: flex;
+    justify-content: end;
+    gap: 30px;
+}
+
+.soussous2maman{
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+}
+
+.sous{
+    display: flex;
+    margin: 8px;
+    gap: 8px;
+    justify-content: start;
+}
